@@ -14,4 +14,5 @@ function product (n,p,d) {
 //class is just wrapper over function
 
 const p =  product("bag",100,"cool new bag");
+p.name = -1; //public class
 console.log(p);
