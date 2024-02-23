@@ -32,3 +32,6 @@ for (let i = 0; i < 100000000; i++){
         console.log("for loop completed")
     }
 }
+
+//after the io queue pooing will happen
+//after that it will go for check and check queue.
