@@ -13,6 +13,7 @@ const obj = function (x,y) {
     this.getDetails();
 }
 
+// obj();
 
 obj.call(player,2,45);
 
